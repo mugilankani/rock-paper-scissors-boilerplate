@@ -1,0 +1,21 @@
+*{
+  background-image: url(assets/bg.png);
+  align-items: center;
+}
+div button{
+  background-color: yellow;
+  color: white;
+  border: none;
+  align-self: center;
+}
+div{
+  
+}
+.play{
+  padding-left: 49%;
+}
+.button{
+  padding: 10px;
+  background-color: yellow;
+  cursor: pointer;
+}
